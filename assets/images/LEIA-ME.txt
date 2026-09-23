@@ -1,0 +1,11 @@
+Coloque aqui as fotografias reais da empresa, exatamente com estes nomes
+(o site já está preparado para as mostrar automaticamente assim que existirem):
+
+  hero-poster.jpg    -> imagem de fundo do vídeo do topo (antes/sem vídeo)
+  about.jpg          -> fotografia da secção "Sobre nós"
+  machine-01.jpg     -> fotografia da máquina, secção "Tecnologia"
+  work-01.jpg ... work-08.jpg -> as 8 fotografias da Galeria
+  og-image.jpg       -> imagem usada quando o link é partilhado (1200x630px)
+
+Não é preciso alterar nenhum ficheiro HTML ou CSS — basta colocar o ficheiro
+com o nome certo nesta pasta.

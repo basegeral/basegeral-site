@@ -1,0 +1,8 @@
+Coloque aqui os vídeos reais, exatamente com estes nomes:
+
+  hero.mp4      -> vídeo de fundo do topo da página (autoplay, sem som, loop)
+  machine.mp4   -> vídeo da máquina em funcionamento, na Galeria
+  process.mp4   -> vídeo do processo de corte, na Galeria
+
+Formato recomendado: MP4 (H.264), comprimido, idealmente até 8-10MB para
+não prejudicar o desempenho em telemóvel.
